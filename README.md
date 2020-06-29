@@ -1,3 +1,5 @@
+This code is associated with the paper from Inayat et al., "A Matlab-based toolbox for characterizing behavior of rodents engaged in string-pulling". eLife, 2020. http://doi.org/10.7554/eLife.54540
+
 # String Pulling Behavioral Analytics
 A Matlab based software for analysis of video data of rodents (rats or mice) engaged in string pulling
 
